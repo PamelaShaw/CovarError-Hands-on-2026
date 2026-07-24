@@ -1,4 +1,4 @@
-JSM MeasErrorCourse_CE_02_20260802.pdf.zip - compressed file containing course slides
+### JSM MeasErrorCourse_CE_02_20260802.pdf.zip - compressed file containing course slides
 
 AllPackages.R - lists all the packages needed to run examples in lecture or practicum for morning session
 
